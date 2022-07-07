@@ -1,0 +1,14 @@
+/* Custom list icon by an image. */
+.cs-list li{
+	list-style:none;
+	list-style-image:none;
+	background-image:url('https://yourdomain.com/wp-content/uploads/filename.extension');
+	background-size:0.9em;
+	background-repeat: no-repeat;
+	background-position: 0px 10px;
+	padding-left: 1.5em;
+	padding-bottom: 15px;
+	display:inline-block;
+	margin-left:-35px;
+	border-bottom:1px solid #444;
+}

@@ -1,0 +1,13 @@
+Hi,
+Please follow these steps
+
+Step One:
+Go to your theme customization. Copy and paste the code from 'style.css' by this repository. Change the icon source file from the background image of CSS.
+
+Step Two:
+Use the CSS class "cs-list" where you want to use it.
+Screenshot attached.
+
+Congratulations.
+Best Regards
+Sandipan Das
